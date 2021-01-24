@@ -7,6 +7,8 @@
 
 ### For Support join here [InFoTelGroup](https://telegram.dog/InFoTelGroup)
 ### Working example group -->> [PROleecher](https://telegram.dog/PROleecher)
+### Click Below Image to Deploy
+[![Deploy](https://coursework.vschool.io/content/images/size/w2000/2018/10/heroku_logo.jpeg)](https://heroku.com/deploy?template=https://github.com/Munnipopz/LeechToFile)
 
 
 # Benefits :-
